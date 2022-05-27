@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nisargrai
-- 👀 I’m interested in finding flutter and MERN stack developers and help them start in the indsustry.
+- 👀 I’m interested in finding flutter and MERN stack developers.
 - 🌱 I’m currently learning blockchain development.
 - 💞️ I’m looking to collaborate on NFT marketplaces. 
 - 📫 How to reach me {you can't}. 
