@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nisargrai
-- 👀 I’m interested in finding flutter and MERN stack developers.
-- 🌱 I’m currently learning blockchain development.
+- 👀 I’m interested in finding flutter and MERN stack developers for collaboration. 
+- 🌱 I’m currently learning blockchain development. 
 - 💞️ I’m looking to collaborate on NFT marketplaces. 
-- 📫 How to reach me {you can't}. 
+- 📫 How to reach me rai.nisarg@gmail.com. 
 
 <!---
 nisargrai/nisargrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
